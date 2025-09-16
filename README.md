@@ -1,96 +1,127 @@
 <h1 align="center">Hi 👋, I'm Nithyasree R</h1>
-<h3 align="center">Aspiring Full Stack Developer | Crafting Tech with Creativity</h3>
+<h3 align="center">Aspiring Full Stack Developer | Crafting Tech with Creativity 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+MERN+stack+developer;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Welcome+to+my+GitHub+profile!;MERN+Stack+Developer+in+the+making;Passionate+about+UI%2FUX+and+Web+Apps;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 About Me  
 
-- 🎓 Final year Computer Science Engineering student  
-- 🚀 Passionate about building web apps that solve real-world problems  
-- 🧠 Constantly learning new technologies – MERN, UI/UX, APIs  
-- 🎯 Goal: Become a full-stack developer who creates meaningful impact  
+- 🎓 Final-year **Computer Science Engineering** student  
+- 💡 Passionate about solving real-world problems through **tech-driven solutions**  
+- 🧩 Exploring **MERN Stack, UI/UX Design, APIs & SQL**  
+- 🎯 Goal: To grow as a **Full-Stack Developer** delivering impactful applications  
+
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
-**Languages & Frameworks:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,figma,git,github,vscode,vercel,netlify" />
+</p>
+
+**Detailed Breakdown:**  
+
+**Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)  
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)  
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)  
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)  
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel)  
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff)  
 
 ---
 
-### 🌟 Projects
+### 🌟 Featured Projects  
 
-- 🏠 **RentMate – Property Rental Management System**  
-  MERN Stack project to manage rental listings, tenants, and payments.  
-  [🔗 GitHub](#) | [🌐 Live Demo](#)
+<div align="center">
 
-- 📚 **LangLearn – Language Learning App**  
-  React app for language learners with tutor scheduling and video sessions.  
-  [🔗 GitHub](#)
+<table>
+<tr>
+<td width="50%">
+  
+### 📂 [Portfolio Website](https://github.com/nithyasreeee/portfolio.git)  
+🚀 Personal portfolio built with **HTML, CSS, and JavaScript**, showcasing my skills, projects, and experience.  
 
-- 📝 **Task Manager App**  
-  Keep track of daily tasks with editing and dark mode features.  
-  [🔗 GitHub](#)
+🔗 [View Project](https://github.com/nithyasreeee/portfolio.git)
+
+</td>
+<td width="50%">
+
+### 📝 [Blog App](https://github.com/nithyasreeee/blog-app.git)  
+🖋️ A **MERN Stack Blog Application** where users can create, read, update, and delete posts with authentication.  
+
+🔗 [View Project](https://github.com/nithyasreeee/blog-app.git)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🏅 Certifications & Achievements
+### 🏅 Certifications & Achievements  
 
 - 🎖️ IBM DigiLab Cloud Level Up – Python Development  
 - 💼 Accenture Product Design Job Simulation – Forage  
-- 💻 MERN Stack Internship @ Appin Technologies (20 days)  
-- 🧪 Hackathon Participant – Web Dev Challenge  
+- 💻 MERN Stack Internship @ Appin Technologies  
+- 🚀 Hackathon Participant – Web Dev Challenge  
 - 👩‍🎓 5-Day Web Design & Development Program  
 
 ---
 
-### 📈 GitHub Stats & Graphs
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithyasreeee&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithyasreeee&theme=radical" alt="GitHub streak" />
-  <br />
-  <img src="https://ghchart.rshah.org/00bfa6/nithyasreeee" alt="GitHub chart" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithyasreeee&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyasreeee&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nithyasreee&theme=radical&no-frame=true&margin-w=10&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nithyasreeee&theme=radical&no-frame=true&margin-w=10&row=2&column=3" />
 </p>
 
 ---
 
-
-
-### 📫 Let's Connect
-
-- 🌐 Portfolio: Coming soon!
-- 📧 Email: [nithyasree.example@email.com](mailto:nithyasreerajaram16459@gmail.com)
-- 💬 LinkedIn: [linkedin.com/in/nithyasree-r](https://www.linkedin.com/in/nithyasree3018/)
+### 🐍 GitHub Contribution Snake  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithyasreeee/nithyasreeee/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithyasreeee/nithyasreeee/output/github-contribution-grid-snake.svg" />
+    <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/nithyasreeee/nithyasreeee/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
-> *“Learn → Build → Grow” — That’s my developer mantra.* ✨
+### 📫 Let’s Connect  
+
+- 📧 [Email](mailto:nithyasreerajaram16459@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nithyasree3018/)  
+- 🌐 Portfolio: *Coming soon!*  
+
+---
+
+✨ *“Learn → Build → Grow” — That’s my developer mantra.*
