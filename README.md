@@ -117,7 +117,7 @@
 
 - 📧 [Email](mailto:nithyasreerajaram16459@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nithyasree3018/)  
-- 🌐 Portfolio: *Coming soon!*  
+- 🌐 [Portfolio](https://nithyasreeee.github.io/portfolio/)  
 
 ---
 
